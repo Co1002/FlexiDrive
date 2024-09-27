@@ -47,35 +47,35 @@
                         <img src="assets/images/categories/pkw.png" alt="pkw">
                     </div>
                     <p class="text-center">PKW</p>
-                    <a href="" class="stretched-link"></a>
+                    <a href="list.php" class="stretched-link"></a>
                 </div>
                 <div class="categoryLink">
                     <div class="categoryLinkImage">
                         <img src="assets/images/categories/suv.png" alt="suv">
                     </div>
                     <p class="text-center">SUV</p>
-                    <a href="" class="stretched-link"></a>
+                    <a href="list.php" class="stretched-link"></a>
                 </div>
                 <div class="categoryLink">
                     <div class="categoryLinkImage">
                         <img src="assets/images/categories/transporter.png" alt="transporter">
                     </div>
                     <p class="text-center">Transporter</p>
-                    <a href="" class="stretched-link"></a>
+                    <a href="list.php" class="stretched-link"></a>
                 </div>
                 <div class="categoryLink">
                     <div class="categoryLinkImage">
                         <img src="assets/images/categories/wohnmobil.png" alt="wohnmobil">
                     </div>
                     <p class="text-center">Wohnmobil</p>
-                    <a href="" class="stretched-link"></a>
+                    <a href="list.php" class="stretched-link"></a>
                 </div>
                 <div class="categoryLink">
                     <div class="categoryLinkImage">
                         <img src="assets/images/categories/sportwagen.png" alt="sportwagen">
                     </div>
                     <p class="text-center">Sportwagen</p>
-                    <a href="" class="stretched-link"></a>
+                    <a href="list.php" class="stretched-link"></a>
                 </div>
             </div>
         </section>

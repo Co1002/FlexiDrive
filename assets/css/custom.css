@@ -1,7 +1,7 @@
 #image-hero{
     background-position: center;
     background-size: cover;
-    background-image: url('/assets/images/city.jpg');
+    background-image: url('../images/city.jpg');
     position: relative;
 }
 

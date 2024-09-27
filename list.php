@@ -25,7 +25,7 @@
         <nav class="bg-primary-subtle">
             <div class="container py-2" aria-label="breadcrumb">
                 <ol class="breadcrumb mb-0">
-                    <li class="breadcrumb-item"><a href="/">Startseite</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Startseite</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Angebote</li>
                 </ol>
             </div>
@@ -35,14 +35,60 @@
     <main class="min-vh-100 bg-body-tertiary">
 
         <section class="container py-5">
-            <div class="row">
+            <div class="row g-4">
                 <!-- Filter -->
-                <div class="col-md-4 col-lg-3">
-
+                <div class="col-md-4 col-lg-3 border-end border-secondary-subtle">
+                    <form method="get">
+                        <div class="row row-cols-2 row-cols-md-1">
+                            <div class="col">
+                                <div class="form-check">
+                                    <input type="radio" name="category" id="pkw" class="form-check-input" value="pkw" <?php if(isset($_GET["category"]) && $_GET["category"] == "pkw"){ echo "checked"; } ?>>
+                                    <label class="form-check-label" for="pkw">PKW</label>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="form-check">
+                                    <input type="radio" name="category" id="suv" class="form-check-input" value="suv" <?php if(isset($_GET["category"]) && $_GET["category"] == "suv"){ echo "checked"; } ?>>
+                                    <label class="form-check-label" for="suv">SUV</label>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-check">
+                                    <input type="radio" name="category" id="transporter" class="form-check-input" value="transporter" <?php if(isset($_GET["category"]) && $_GET["category"] == "transporter"){ echo "checked"; } ?>>
+                                    <label class="form-check-label" for="transporter">Transporter</label>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-check">
+                                    <input type="radio" name="category" id="wohnmobil" class="form-check-input" value="wohnmobil" <?php if(isset($_GET["category"]) && $_GET["category"] == "wohnmobil"){ echo "checked"; } ?>>
+                                    <label class="form-check-label" for="wohnmobil">Wohnmobil</label>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-check">
+                                    <input type="radio" name="category" id="sportwagen" class="form-check-input" value="sportwagen" <?php if(isset($_GET["category"]) && $_GET["category"] == "sportwagen"){ echo "checked"; } ?>>
+                                    <label class="form-check-label" for="sportwagen">Sportwagen</label>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary mt-2">Filter anwenden</button>
+                    </form>
                 </div>
                 <!-- Liste -->
                 <div class="col-md-8 col-lg-9">
-
+                    <div class="card">
+                        <div class="row g-2">
+                            <div class="col-sm-3 col-xl-4">
+                                <img src="" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-sm-9 col-xl-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Fahrzeug Titel</h5>
+                                    <p class="text-secondary"><i class="fa-solid fa-gears"></i> Getriebeart <i class="fa-solid fa-users"></i> X Personen <i class="fa-solid fa-suitcase"></i> X Gepäckstücke</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
