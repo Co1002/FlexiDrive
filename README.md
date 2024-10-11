@@ -10,8 +10,9 @@ FlexiDrive is a car rental service that was developed as part of a school projec
 - Booking system
 - Payment emulation
 - Admin area
+- And much more…
 
-And much more… Just take a look at the project in live operation and see for yourself!
+Just take a look at the project in live operation and see for yourself!
 
 ## Authors
 
