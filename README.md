@@ -1,6 +1,7 @@
 # FlexiDrive
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 ## About this project
 
 FlexiDrive is a car rental service that was developed as part of a school project. The project was developed extensively and improved several times. The web application offers various functionalities, including:
@@ -9,7 +10,9 @@ FlexiDrive is a car rental service that was developed as part of a school projec
 - Booking system
 - Payment emulation
 - Admin area
+
 And much more… Just take a look at the project in live operation and see for yourself!
+
 ## Authors
 
 - [@Co1002](https://www.github.com/co1002)
