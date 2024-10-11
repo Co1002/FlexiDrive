@@ -50,6 +50,22 @@
             <?= Alert::getAlerts() ?>
             <form method="post">
                 <div class="row g-4">
+                    <div class="col-8">
+                        <label for="street" class="form-label">Straße:</label>
+                        <input type="text" name="street" class="form-control" id="street" required>
+                    </div>
+                    <div class="col-4">
+                        <label for="homenumber" class="form-label">HausNr.:</label>
+                        <input type="number" name="homenumber" class="form-control" id="homenumber" required>
+                    </div>
+                    <div class="col-8">
+                        <label for="location" class="form-label">Ort:</label>
+                        <input type="text" name="location" class="form-control" id="location" required>
+                    </div>
+                    <div class="col-4">
+                        <label for="postalcode" class="form-label">Postleitzahl:</label>
+                        <input type="number" name="postalcode" class="form-control" id="postalcode" required>
+                    </div>
                     <div class="col-12">
                         <label for="cardnumber" class="form-label">Kartennummer:</label>
                         <input type="number" name="cardnumber" class="form-control" id="cardnumber" required>
@@ -74,5 +90,4 @@
         </div>
     </div>
 </section>
-
 <?php require_once(__DIR__."/templates/footer.php"); ?>
