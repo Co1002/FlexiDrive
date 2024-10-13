@@ -127,69 +127,80 @@
                         <td>Verbrennungsmotor</td>
                         </tr>
                         <tr>
-                        <td>Kraftstoffart</td>
-                        <td>Benzin, E10-geeignet</td>
+                        <td colspan= "2"><!--In bearbeitund-->
+                        <p class="mb-0">
+                            <a data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            Mehr anzeigen
+                            </a>
+                        </p>
+                        </td>
                         </tr>
-                        <tr>
-                        <td>Energieverbrauch (komb.)^2</td>
-                        <td>6,6 l/100km</td>
-                        </tr>
-                        <tr>
-                        <td>Anzahl Sitzplätze</td>
-                        <td>5</td>
-                        </tr>
-                        <tr>
-                        <td>Anzahl der Türen</td>
-                        <td>4/5</td>
-                        </tr>
-                        <tr>
-                        <td>Getriebe</td>
-                        <td>Automatik</td>
-                        </tr>
-                        <tr>
-                        <td>Schadstoffklasse</td>
-                        <td>Euro6d-TEMP</td>
-                        </tr>
-                        <tr>
-                        <td>Umweltplakette</td>
-                        <td>4 (Grün)</td>
-                        </tr>
-                        <tr>
-                        <td>Erstzulassung</td>
-                        <td>06/2022</td>
-                        </tr>
-                        <tr>
-                        <td>HU</td>
-                        <td>Neu</td>
-                        </tr>
-                        <tr>
-                        <td>Klimatisierung</td>
-                        <td>2-Zonen-Klimaautomatik</td>
-                        </tr>
-                        <tr>
-                        <td>Einparkhilfe</td>
-                        <td>Vorne, Kamera, Hinten</td>
-                        </tr>
-                        <tr>
-                        <td>Airbags</td>
-                        <td>Front-,Seiten- und weitere Airbags</td>
-                        </tr>
-                        <tr>
-                        <td>Farbe (Hersteller)</td>
-                        <td>Weiß</td>
-                        </tr>
-                        <tr>
-                        <td>Farbe</td>
-                        <td>weiß</td>
-                        </tr>
-                        <tr>
-                        <td>Innenausstattung</td>
-                        <td>Velours, Schwarz</td>
-                        </tr>
-                        <tr>
-                        <td>Zylinder</td>
-                        <td>4</td>
-                        </tr>
+                        <div class="collapse" id="collapseExample">
+                            <tr>
+                            <td>Kraftstoffart</td>
+                            <td>Benzin, E10-geeignet</td>
+                            </tr>
+                            <tr>
+                            <td>Energieverbrauch (komb.)^2</td>
+                            <td>6,6 l/100km</td>
+                            </tr>
+                            <tr>
+                            <td>Anzahl Sitzplätze</td>
+                            <td>5</td>
+                            </tr>
+                            <tr>
+                            <td>Anzahl der Türen</td>
+                            <td>4/5</td>
+                            </tr>
+                            <tr>
+                            <td>Getriebe</td>
+                            <td>Automatik</td>
+                            </tr>
+                            <tr>
+                            <td>Schadstoffklasse</td>
+                            <td>Euro6d-TEMP</td>
+                            </tr>
+                            <tr>
+                            <td>Umweltplakette</td>
+                            <td>4 (Grün)</td>
+                            </tr>
+                            <tr>
+                            <td>Erstzulassung</td>
+                            <td>06/2022</td>
+                            </tr>
+                            <tr>
+                            <td>HU</td>
+                            <td>Neu</td>
+                            </tr>
+                            <tr>
+                            <td>Klimatisierung</td>
+                            <td>2-Zonen-Klimaautomatik</td>
+                            </tr>
+                            <tr>
+                            <td>Einparkhilfe</td>
+                            <td>Vorne, Kamera, Hinten</td>
+                            </tr>
+                            <tr>
+                            <td>Airbags</td>
+                            <td>Front-,Seiten- und weitere Airbags</td>
+                            </tr>
+                            <tr>
+                            <td>Farbe (Hersteller)</td>
+                            <td>Weiß</td>
+                            </tr>
+                            <tr>
+                            <td>Farbe</td>
+                            <td>weiß</td>
+                            </tr>
+                            <tr>
+                            <td>Innenausstattung</td>
+                            <td>Velours, Schwarz</td>
+                            </tr>
+                            <tr>
+                            <td>Zylinder</td>
+                            <td>4</td>
+                            </tr>
+                        </div>
                     </tbody>
                 </table>
             </ul>   
@@ -256,109 +267,120 @@
                     <td>Elektr. Fensterheber <i class="fa-solid fa-check"></i></td>
                     </tr>
                     <tr>
-                    <td>Elektr. Seitenspiegel <i class="fa-solid fa-check"></i></td>
-                    <td>Elektr. Sitzeinstellung mit Memory-Funktion <i class="fa-solid fa-check"></i></td>
+                    <td colspan= "2"><!--In bearbeitund-->
+                    <p class="mb-0">
+                        <a data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                        Mehr anzeigen
+                        </a>
+                    </p>
+                    </td>
                     </tr>
-                    <tr>
-                    <td>Elektr. Wegfahrsperre <i class="fa-solid fa-check"></i></td>
-                    <td>ESP <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Fernlichtassistent <i class="fa-solid fa-check"></i></td>
-                    <td>Freisprecheinrichtung <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Frontantrieb <i class="fa-solid fa-check"></i></td>
-                    <td>Garantie <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Gepäckraumabtrennung <i class="fa-solid fa-check"></i></td>
-                    <td>Geschwindigkeitsbegrenzer <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Induktionsladen für Smartphones <i class="fa-solid fa-check"></i></td>
-                    <td>Innenspiegel autom. abblendend <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Inspektion neu <i class="fa-solid fa-check"></i></td>
-                    <td>Isofix <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Lederlenkrad <i class="fa-solid fa-check"></i></td>
-                    <td>LED-Scheinwerfer <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>LED-Tagfahrlicht <i class="fa-solid fa-check"></i></td>
-                    <td>Leichtmetallfelgen <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Lichtsensor <i class="fa-solid fa-check"></i></td>
-                    <td>Lordosenstütze <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Müdigkeitswarner <i class="fa-solid fa-check"></i></td>
-                    <td>Multifunktionslenkrad <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Navigationssystem <i class="fa-solid fa-check"></i></td>
-                    <td>Navigationsvorbereitung <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Nichtraucher-Fahrzeug <i class="fa-solid fa-check"></i></td>
-                    <td>Notbremsassistent <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Notrufsystem <i class="fa-solid fa-check"></i></td>
-                    <td>Pannenkit <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Radio DAB <i class="fa-solid fa-check"></i></td>
-                    <td>Raucherpaket <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Regensensor <i class="fa-solid fa-check"></i></td>
-                    <td>Reifendruckkontrolle <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Schaltwippen <i class="fa-solid fa-check"></i></td>
-                    <td>Servolenkung <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Sitzheizung <i class="fa-solid fa-check"></i></td>
-                    <td>Soundsystem <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Sportfahrwerk <i class="fa-solid fa-check"></i></td>
-                    <td>Sportpaket <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Sportsitze <i class="fa-solid fa-check"></i></td>
-                    <td>Sprachsteuerung <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Spurhalteassistent <i class="fa-solid fa-check"></i></td>
-                    <td>Start/Stopp-Automatik <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Touchscreen <i class="fa-solid fa-check"></i></td>
-                    <td>Traktionskontrolle <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Tuner/Radio <i class="fa-solid fa-check"></i></td>
-                    <td>Umklappbarer Beifahrersitz <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>USB <i class="fa-solid fa-check"></i></td>
-                    <td>Verkehrszeichenerkennung <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>Volldigitales Kombiinstrument <i class="fa-solid fa-check"></i></td>
-                    <td>Winterpaket <i class="fa-solid fa-check"></i></td>
-                    </tr>
-                    <tr>
-                    <td>WLAN / Wifi Hotspot <i class="fa-solid fa-check"></i></td>
-                    <td>Zentralverrigelung <i class="fa-solid fa-check"></i></td>
-                    </tr>
+                    <div class="collapse" id="collapseExample">
+                        <tr>
+                        <td>Elektr. Seitenspiegel <i class="fa-solid fa-check"></i></td>
+                        <td>Elektr. Sitzeinstellung mit Memory-Funktion <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Elektr. Wegfahrsperre <i class="fa-solid fa-check"></i></td>
+                        <td>ESP <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Fernlichtassistent <i class="fa-solid fa-check"></i></td>
+                        <td>Freisprecheinrichtung <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Frontantrieb <i class="fa-solid fa-check"></i></td>
+                        <td>Garantie <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Gepäckraumabtrennung <i class="fa-solid fa-check"></i></td>
+                        <td>Geschwindigkeitsbegrenzer <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Induktionsladen für Smartphones <i class="fa-solid fa-check"></i></td>
+                        <td>Innenspiegel autom. abblendend <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Inspektion neu <i class="fa-solid fa-check"></i></td>
+                        <td>Isofix <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Lederlenkrad <i class="fa-solid fa-check"></i></td>
+                        <td>LED-Scheinwerfer <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>LED-Tagfahrlicht <i class="fa-solid fa-check"></i></td>
+                        <td>Leichtmetallfelgen <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Lichtsensor <i class="fa-solid fa-check"></i></td>
+                        <td>Lordosenstütze <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Müdigkeitswarner <i class="fa-solid fa-check"></i></td>
+                        <td>Multifunktionslenkrad <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Navigationssystem <i class="fa-solid fa-check"></i></td>
+                        <td>Navigationsvorbereitung <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Nichtraucher-Fahrzeug <i class="fa-solid fa-check"></i></td>
+                        <td>Notbremsassistent <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Notrufsystem <i class="fa-solid fa-check"></i></td>
+                        <td>Pannenkit <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Radio DAB <i class="fa-solid fa-check"></i></td>
+                        <td>Raucherpaket <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Regensensor <i class="fa-solid fa-check"></i></td>
+                        <td>Reifendruckkontrolle <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Schaltwippen <i class="fa-solid fa-check"></i></td>
+                        <td>Servolenkung <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Sitzheizung <i class="fa-solid fa-check"></i></td>
+                        <td>Soundsystem <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Sportfahrwerk <i class="fa-solid fa-check"></i></td>
+                        <td>Sportpaket <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Sportsitze <i class="fa-solid fa-check"></i></td>
+                        <td>Sprachsteuerung <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Spurhalteassistent <i class="fa-solid fa-check"></i></td>
+                        <td>Start/Stopp-Automatik <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Touchscreen <i class="fa-solid fa-check"></i></td>
+                        <td>Traktionskontrolle <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Tuner/Radio <i class="fa-solid fa-check"></i></td>
+                        <td>Umklappbarer Beifahrersitz <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>USB <i class="fa-solid fa-check"></i></td>
+                        <td>Verkehrszeichenerkennung <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>Volldigitales Kombiinstrument <i class="fa-solid fa-check"></i></td>
+                        <td>Winterpaket <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                        <tr>
+                        <td>WLAN / Wifi Hotspot <i class="fa-solid fa-check"></i></td>
+                        <td>Zentralverrigelung <i class="fa-solid fa-check"></i></td>
+                        </tr>
+                    </div>
                 </table>
             </ul>
         </div>
