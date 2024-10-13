@@ -10,8 +10,8 @@
                     <h5 class="card-title">VW-Golf</h5>
                     <p class="card-text">Diese Bestellung ist am laufen.</p>
                     <ul class="list-group list-group-flush">
-                    <li class="list-group-item">Von:</li>
-                    <li class="list-group-item">Bis:</li>
+                    <li class="list-group-item">Von: <?= date("d.m.y", strtotime($_SESSION["filterStart"])) ?></li>
+                    <li class="list-group-item">Bis: <?= date("d.m.y", strtotime($_SESSION["filterEnd"])) ?></li>
                     <li class="list-group-item">Insgesamte Tage:</li>
                     </ul>
                 </div>
@@ -45,8 +45,8 @@
                         </div>
                     </div>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Von:</li>
-                        <li class="list-group-item">Bis:</li>
+                        <li class="list-group-item">Von: <?= date("d.m.y", strtotime($_SESSION["filterStart"])) ?></li>
+                        <li class="list-group-item">Bis: <?= date("d.m.y", strtotime($_SESSION["filterEnd"])) ?></li>
                         <li class="list-group-item">Insgesamte Tage:</li>
                     </ul>
                 </div>  
@@ -64,8 +64,8 @@
                     <p class="card-text">Diese Bestellung wurde abgeschlossen.</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                <li class="list-group-item">Von:</li>
-                <li class="list-group-item">Bis:</li>
+                <li class="list-group-item">Von: <?= date("d.m.y", strtotime($_SESSION["filterStart"])) ?></li>
+                <li class="list-group-item">Bis: <?= date("d.m.y", strtotime($_SESSION["filterEnd"])) ?></li>
                 <li class="list-group-item">Insgesamte Tage:</li>
                 </ul>
             </div>
