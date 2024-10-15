@@ -88,7 +88,7 @@
                                 <div class="col-5">
                                     <p class="display-5 mb-0"><?= number_format($car["preis"], 2, ",", ".") ?> €</p>
                                     <p class="fst-italic text-secondary">pro Tag</p>
-                                    <a href="booking.php?carId=<?= $car["carId"] ?>" class="btn btn-primary w-100">Auswählen</a>
+                                    <a href="car.php?carId=<?= $car["carId"] ?>" class="btn btn-primary w-100">Auswählen</a>
                                 </div>
                             </div>
                         </div>

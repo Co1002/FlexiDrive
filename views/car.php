@@ -76,7 +76,7 @@
                                     <h6 class="mb-0"> <small>  <i class="fa-solid fa-gears text-primary"></i> Automatik </small></h6>
                                 </div>
                                     <div class="p-2">
-                                    <h6 class="mb-0"> <small>  <i class="fa-solid fa-id-card text-primary"></i> Mindesalter </small></h6>
+                                    <h6 class="mb-0"> <small>  <i class="fa-solid fa-id-card text-primary"></i> Mindestalter </small></h6>
                                     <p class="mb-0"><small> 18 Jahre</small></p>
                                 </div>
                             </div>
@@ -85,7 +85,13 @@
             </ul>   
         </div>
         <div>
-            
+            <h3><i class="fa-solid fa-location-dot text-primary"></i> Standort</h3>
+            <p> <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" 
+                src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Wurmberger%20Str.38%20Pforzheim+(FlexiDrive)&amp;
+                t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> 
+                <a href='https://www.acadoo.de/fachrichtungen/ghostwriter-medizin/'>Medizin Thesis</a> 
+                <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=6795ad12bd0837871b57d695290c52bb2ae0ee45'></script> 
+            </p>
         </div>
     </div>
 </section>
