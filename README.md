@@ -14,6 +14,11 @@ FlexiDrive is a car rental service that was developed as part of a school projec
 
 Just take a look at the project in live operation and see for yourself!
 
+## Backlog
+
+Our work for this project is transparently documented in our backlog.
+https://github.com/users/Co1002/projects/9
+
 ## Authors
 
 - [@Co1002](https://www.github.com/co1002)
