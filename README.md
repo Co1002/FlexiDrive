@@ -2,6 +2,8 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+Live project: https://flexidrive.bandenkick.de
+
 ## About this project
 
 FlexiDrive is a car rental service that was developed as part of a school project. The project was developed extensively and improved several times. The web application offers various functionalities, including:
