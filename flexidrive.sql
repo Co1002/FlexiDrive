@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: db5016497966.hosting-data.io
--- Erstellungszeit: 04. Dez 2024 um 02:28
+-- Erstellungszeit: 04. Dez 2024 um 07:19
 -- Server-Version: 8.0.36
 -- PHP-Version: 7.4.33
 
@@ -83,8 +83,8 @@ CREATE TABLE `car` (
 --
 
 INSERT INTO `car` (`carId`, `typeId`, `locationId`, `name`, `preis`, `bild`, `personen`, `tueren`, `getriebe`, `kraftstoff`, `verbrauch`, `kw`, `ps`, `km`, `klimaanlage`, `koffer`, `mindestalter`, `fuehrerschein`) VALUES
-(6, 1, 1, 'Ford Focus', 5.4, 'ford-focus.png', 5, '4/5', 'Schaltgetriebe', 'Benzin', 5.4, 92, 125, 0, 1, 2, 18, 'B'),
-(7, 1, 1, 'Audi A3', 11.33, 'audi-a3.png', 5, '4/5', 'Automatikgetriebe', 'Benzin', 5.3, 81, 110, 0, 1, 2, 18, 'B'),
+(6, 1, 1, 'Ford Focus', 38.86, 'ford-focus.png', 5, '4/5', 'Schaltgetriebe', 'Benzin', 5.4, 92, 125, 0, 1, 2, 18, 'B'),
+(7, 1, 1, 'Audi A3', 39, 'audi-a3.png', 5, '4/5', 'Automatikgetriebe', 'Benzin', 5.3, 81, 110, 0, 1, 2, 18, 'B'),
 (10, 1, 1, 'BMW M3', 61, '887721732737317.png', 5, '5', 'Automatikgetriebe', 'Benzin', 12, 331, 450, 2534, 1, 1, 18, 'B'),
 (11, 1, 2, 'Fiat 500', 41, '963611732738235.png', 4, '3', 'Schaltgetriebe', 'Benzin', 5, 13, 18, 34897, 0, 0, 18, 'B'),
 (12, 1, 3, 'Volvo XC90', 51, '750261732738633.png', 7, '5', 'Automatikgetriebe', 'Elektro', 8, 335, 455, 23890, 1, 2, 18, 'B'),
